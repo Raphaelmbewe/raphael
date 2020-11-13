@@ -146,3 +146,5 @@ var cancelButtonContainerDecoration =  BoxDecoration(
        // backgroundImage:AssetImage('images/weatherApp.png'),
         backgroundColor: Colors.white, radius:60,)
     );
+
+    //made some changes
